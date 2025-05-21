@@ -11,7 +11,7 @@ Este repositório contém o desenvolvimento de uma **página web individual** in
 - ✅ **Transformações com :hover**:
   - `transform: scale(1.1)` em imagens de produtos
   - `transform: rotate(5deg)` em elementos destacados
-- ✅ **CSS externo** (`css/flex-style.css`) para manter a separação e organização do código
+- ✅ **CSS externo** (`css/flex_style.css`) para manter a separação e organização do código
 
 ## Desenvolvedora
 
@@ -19,7 +19,7 @@ Este repositório contém o desenvolvimento de uma **página web individual** in
 
 ## 🔗 Repositório no GitHub
 
-[https://github.com/NataliaCamargo-dev/checkpoint03-flexbox](https://github.com/NataliaCamargo-dev/checkpoint03-flexbox)
+[https://github.com/NataliaCamargo-dev/checkpoint03-flexbox](https://github.com/nataliacamargoz/Case-Vinharia-CP3)
 
 ## 🌐 GitHub Pages
 
