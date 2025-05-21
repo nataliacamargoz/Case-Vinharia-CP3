@@ -23,4 +23,4 @@ Este repositório contém o desenvolvimento de uma **página web individual** in
 
 ## 🌐 GitHub Pages
 
-🔗 [Clique aqui para acessar o GitHub Pages](https://nataliacamargo-dev.github.io/checkpoint03-flexbox/)
+🔗 [Clique aqui para acessar o GitHub Pages](https://nataliacamargoz.github.io/Case-Vinharia-CP3/flex_layout.html)
